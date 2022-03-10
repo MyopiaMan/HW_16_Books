@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bookList>
+    <name>The Greatest Books</name>
+    <books>
+        <book>
+            <vendor>0-7475-3269-9</vendor>
+            <title>Harry Potter and the Philosopher's Stone</title>
+            <author>J. K. Rowling</author>
+            <yearOfPublication>1997</yearOfPublication>
+        </book>
+        <book>
+            <vendor>978-1-84749-059-9</vendor>
+            <title>Anna Karenina</title>
+            <author>Lev Nikolayevich Tolstoy</author>
+            <yearOfPublication>1878</yearOfPublication>
+        </book>
+        <book>
+            <vendor>PR6039.032 L67 1954</vendor>
+            <title>The Lord of the Rings: The Fellowship of the Ring</title>
+            <author>J. R. R. Tolkien</author>
+            <yearOfPublication>1954</yearOfPublication>
+        </book>
+        <book>
+            <vendor>0-14-118014-5</vendor>
+            <title>The Master and Margarita</title>
+            <author>Mikhail Bulgakov</author>
+            <yearOfPublication>1967</yearOfPublication>
+        </book>
+    </books>
+</bookList>
